@@ -1,11 +1,25 @@
 h1{
     color: brown;
-    background-color: pink;
+    background-color: rgb(255, 0, 43);
     width: 400px;
     height: 30px;
+    font: size 30px;
 }
 .texto-azuladinho{
     color: blue ;   
+    font-weight: bold;
+}
+h2{
+    color:  red;
+    text-align: center;
+    background-color: black;
+    text-transform: uppercase;
+    font-weight: normal;
+}
+h3{
+    text-align:  right;
+    background-color: pink;
+    text-shadow: 7px 2px 0px gray;
 }
 
 
